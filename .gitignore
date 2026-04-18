@@ -1,0 +1,23 @@
+# Maven files
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Gradle files
+/.gradle/
+/build/
+
+# Spring Boot files
+/target/
+/!.mvn/wrapper/maven-wrapper.jar
+/!.mvn/wrapper/maven-wrapper.properties
+
+# IDE files
+/.idea/
+*.iml
+/.project
+/.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
