@@ -1,0 +1,35 @@
+body{
+background:#f5f7fb;
+font-family:Segoe UI;
+}
+
+.sidebar{
+background:#1f2937;
+height:100vh;
+padding-top:20px;
+}
+
+.sidebar .nav-link{
+color:#cbd5e1;
+padding:12px;
+font-size:15px;
+}
+
+.sidebar .nav-link:hover{
+background:#374151;
+color:white;
+}
+
+.contenido{
+padding:25px;
+}
+
+.card-dashboard{
+border:none;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,0.08);
+}
+
+.card-dashboard h3{
+font-weight:bold;
+}
